@@ -1,48 +1,123 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
-    <link rel="stylesheet" href="styles.css">
+<style>
+body {
+  background-image: url(https://shots.codepen.io/username/pen/eYoZJB-800.jpg?version=1482178565);
+
+</style>
 </head>
 <body>
-    <header>
-        <h1>Welcome to My Website</h1>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
 
-    <main>
-        <section id="home">
-            <h2>Home</h2>
-            <p>This is the homepage of your website. You can add any content you want here.</p>
-        </section>
-        
-        <section id="about">
-            <h2>About</h2>
-            <p>This section can contain information about you or your business.</p>
-        </section>
 
-        <section id="services">
-            <h2>Services</h2>
-            <p>Detail the services you offer in this section.</p>
-        </section>
 
-        <section id="contact">
-            <h2>Contact</h2>
-            <p>Provide contact information or a contact form here.</p>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2024 Your Name. All Rights Reserved.</p>
-    </footer>
 </body>
 </html>
+
+ <!DOCTYPE html>
+<html>
+<head>
+<style>
+
+
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
+
+<h1 style="color:White;">GC 2.1 </h1>
+<p style="color:White;">biggest place to play UN bl 0 cked G@ m e s</p>
+
+
+</body>
+</html>
+ 
+
+</html>
+
+<img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     
+    <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     
+    <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     <img src="https://ik.imagekit.io/ikmedia/women-dress-2.jpg" 
+     width="120" 
+     height="120" />
+     
+
+</style>
+</head>
+<body>
+
+<h1 style="color:White;">Features </h1>
+<p style="color:White;">Anti-Virus Protection</p>
+<br> <!-- adds a line break between paragraphs -->
+<br> <!-- adds a line break between paragraphs -->
+<br> <!-- adds a line break between paragraphs -->
+
+</body>
+</html>
+<strong style="color:White;"><Center>UPDATES EVERY WEEK <strong>
+
+
+
+<br> <!-- adds a line break between paragraphs -->
+<br> <!-- adds a line break between paragraphs -->
+<br> <!-- adds a line break between paragraphs -->
+<br> <!-- adds a line break between paragraphs -->
+<br> <!-- adds a line break between paragraphs -->
+
+
+
+<strong style="color:White;"><Center>ANNOUNCEMENTS <strong>
